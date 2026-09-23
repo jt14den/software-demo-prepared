@@ -1,6 +1,6 @@
 # Biodiversity Analysis Toolkit
 
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.123456.svg)](https://doi.org/10.5072/zenodo.123456)
+[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.607977.svg)](https://sandbox.zenodo.org/records/607977)
 
 Analysis tools for biodiversity research data.
 
