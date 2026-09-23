@@ -1,11 +1,41 @@
-# Biodiversity Analysis Toolkit
+[![License: BSD-3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg)](LICENSE)
 
-[![DOI](https://sandbox.zenodo.org/badge/DOI/10.5072/zenodo.607977.svg)](https://sandbox.zenodo.org/records/607977)
+## About
 
-Analysis tools for biodiversity research data.
+Analysis tools for biodiversity research data. This demo version generates a sample dataset and prints its mean and standard deviation. It's a teaching repository for the [Making Research Software Citable & Discoverable](https://ucospo.net/research-software-citable-discoverable/) lesson.
 
-> **Note:** the DOI above points to Zenodo Sandbox for teaching purposes.
+## Features
+
+- Summary statistics (mean and standard deviation) in one command
+- Runs anywhere Python and NumPy run
+- Citable, with a license, a CITATION.cff file, and a DOI
+
+## Getting Started
+
+You need Python 3.9 or later.
+
+```bash
+git clone https://github.com/jt14den/software-demo-prepared.git
+cd software-demo-prepared
+pip install -r requirements.txt
+```
+
+## Usage
+
+```bash
+python src/analysis.py
+```
+
+This prints the mean and standard deviation of the sample data.
+
+## Citation
+
+If you use this software, please cite it. Use the **Cite this repository** button on GitHub, which reads [CITATION.cff](CITATION.cff), or cite the archived release: DOI [10.5072/zenodo.607977](https://sandbox.zenodo.org/records/607977).
 
 ## License
 
-This project is licensed under the BSD 3-Clause License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the BSD 3-Clause License. See the [LICENSE](LICENSE) file for details.
+
+## Contact
+
+Questions or problems? [Open an issue](https://github.com/jt14den/software-demo-prepared/issues).
